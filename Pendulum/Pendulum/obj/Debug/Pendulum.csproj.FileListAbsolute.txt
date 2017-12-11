@@ -1,0 +1,10 @@
+C:\Users\Johnny\source\repos\Pendulum\Pendulum\bin\Debug\Pendulum.exe.config
+C:\Users\Johnny\source\repos\Pendulum\Pendulum\bin\Debug\Pendulum.exe
+C:\Users\Johnny\source\repos\Pendulum\Pendulum\bin\Debug\Pendulum.pdb
+C:\Users\Johnny\source\repos\Pendulum\Pendulum\obj\Debug\Pendulum.csprojResolveAssemblyReference.cache
+C:\Users\Johnny\source\repos\Pendulum\Pendulum\obj\Debug\Pendulum.Properties.Resources.resources
+C:\Users\Johnny\source\repos\Pendulum\Pendulum\obj\Debug\Pendulum.csproj.GenerateResource.Cache
+C:\Users\Johnny\source\repos\Pendulum\Pendulum\obj\Debug\Pendulum.csproj.CoreCompileInputs.cache
+C:\Users\Johnny\source\repos\Pendulum\Pendulum\obj\Debug\Pendulum.exe
+C:\Users\Johnny\source\repos\Pendulum\Pendulum\obj\Debug\Pendulum.pdb
+C:\Users\Johnny\source\repos\Pendulum\Pendulum\obj\Debug\Pendulum.Form.resources
